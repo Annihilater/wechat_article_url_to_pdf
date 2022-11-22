@@ -6,7 +6,7 @@ future==0.18.2
 idna==2.9
 lxml==4.5.0
 pdfkit==0.6.1
-Pillow==7.0.0
+Pillow==9.3.0
 requests==2.23.0
 six==1.14.0
 soupsieve==2.0
